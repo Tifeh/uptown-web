@@ -1,7 +1,7 @@
 <script>
     let visible = false;
-    import LeftComponent from './ScreenPage.svelte'
-    import RightComponent from './Download.svelte'
+    import LeftComponent from './screenShot_leftComponent.svelte'
+    import RightComponent from './info_rightComponent.svelte'
     import Footer from './Footer.svelte'
 </script>
 
